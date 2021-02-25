@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 authors = ["Your Name <you@example.com>"]
-name = "root"
+name = "fcc-medical-data-visualizer"
 version = "0.0.0"
 description = ""
 
